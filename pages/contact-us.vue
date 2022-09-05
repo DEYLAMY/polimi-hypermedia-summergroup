@@ -10,7 +10,7 @@
       <div class="col-sm-5 text-sm-start">
         <p class="text-light">
           Questions, sad or happy stories, or even just a quick howdy, send us a
-          note. We'll read every word.
+          note. We'll read every word.<br> We love summer festivals. And you will too! <br>Restrictions are slowly lifted as the weather approaches, and the summer of 2022 looks interesting to return to normal after almost 2 years. 
         </p>
       </div>
       <div class="col-sm-5">
